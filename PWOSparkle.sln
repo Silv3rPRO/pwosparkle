@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWOSparkle", "PWOSparkle\PWOSparkle.csproj", "{23C0EE23-487E-4BDB-B4FC-638612250F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWOBot", "PWOBot\PWOBot.csproj", "{ADD75A3E-5A0E-481F-A336-97A68D408F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWOProtocol", "PWOProtocol\PWOProtocol.csproj", "{BDDA0938-AA15-4BC5-BE2F-D25DD195632E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C0EE23-487E-4BDB-B4FC-638612250F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C0EE23-487E-4BDB-B4FC-638612250F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C0EE23-487E-4BDB-B4FC-638612250F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C0EE23-487E-4BDB-B4FC-638612250F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD75A3E-5A0E-481F-A336-97A68D408F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD75A3E-5A0E-481F-A336-97A68D408F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD75A3E-5A0E-481F-A336-97A68D408F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD75A3E-5A0E-481F-A336-97A68D408F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDA0938-AA15-4BC5-BE2F-D25DD195632E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDA0938-AA15-4BC5-BE2F-D25DD195632E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDA0938-AA15-4BC5-BE2F-D25DD195632E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDA0938-AA15-4BC5-BE2F-D25DD195632E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
